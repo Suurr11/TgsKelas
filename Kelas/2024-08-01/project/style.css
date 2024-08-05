@@ -1,0 +1,68 @@
+* {
+  margin: 0px;
+}
+
+.wrapper {
+  padding: 30px;
+  margin-top: 30px;
+  background: grey;
+}
+
+.baris-1 {
+  padding: 50px;
+  background: yellow;
+}
+
+.baris-2 {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+}
+
+.baris-3 {
+  background: #a560f8;
+  margin-top: 20px;
+
+  padding: 50px;
+}
+
+.baris-4 {
+  padding: 50px;
+  background: lime;
+  margin-top: 20px;
+}
+
+.baris-5 {
+  padding: 50px;
+  background: lightcoral;
+  margin-top: 20px;
+}
+
+.baris-2-kolom-1,
+.baris-2-kolom-2,
+.baris-2-kolom-3,
+.baris-2-kolom-4,
+.baris-2-kolom-5 {
+  background-color: red;
+  width: 20%;
+}
+
+.baris-2-kolom-2 {
+  background-color: silver;
+}
+
+.baris-2-kolom-3 {
+  background-color: rgb(197, 197, 29);
+}
+
+.baris-2-kolom-4 {
+  background-color: orchid;
+}
+
+.baris-2-kolom-5 {
+  background-color: lightgreen;
+}
+
+img {
+  width: 100%;
+}
