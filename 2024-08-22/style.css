@@ -1,0 +1,17 @@
+.header {
+  background-color: aqua;
+  color: crimson;
+  height: 150px;
+}
+
+.content {
+  background-color: lightgreen;
+  color: black;
+  height: 300px;
+}
+
+.footer {
+  background-color: darksalmon;
+  color: gold;
+  height: 100px;
+}
