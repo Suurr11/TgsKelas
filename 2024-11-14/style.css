@@ -1,0 +1,15 @@
+.container {
+    width: 900px;
+    margin: auto;
+}
+.logo img {
+    height: 90px;
+    width: 600px;
+}
+.detail {
+    margin-bottom: 30px;
+}
+
+.detail img {
+    width: 200px;
+}
